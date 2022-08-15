@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".activities.AllOrdersActivity">
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/all_orders_item_layout"
+        android:id="@+id/rv"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

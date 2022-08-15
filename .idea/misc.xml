@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Mudit Jain/Kotlin/EKartAdmin/app/src/main/res/layout/activity_all_orders.xml" value="0.16983695652173914" />
         <entry key="..\:/Users/Mudit Jain/Kotlin/EKartAdmin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/EKartAdmin/app/src/main/res/layout/all_orders_item_layout.xml" value="0.11666666666666667" />
         <entry key="..\:/Users/Mudit Jain/Kotlin/EKartAdmin/app/src/main/res/layout/dropdown_tem_layout.xml" value="0.25" />
         <entry key="..\:/Users/Mudit Jain/Kotlin/EKartAdmin/app/src/main/res/layout/fragment_add_product.xml" value="0.2" />
         <entry key="..\:/Users/Mudit Jain/Kotlin/EKartAdmin/app/src/main/res/layout/fragment_category.xml" value="0.176" />
